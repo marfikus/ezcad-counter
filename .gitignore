@@ -1,0 +1,5 @@
+__pycache__/
+output/
+demo/
+window_probe.py
+ocr_tests/
